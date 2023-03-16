@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="images/mussie.png" alt="logo" width="auto"  height="auto" />
+  <img src="images/mussie.png" alt="logo" width="300px"  height="300px" />
   <br/>
   <h3><b>HummingBird BootCamp Capstone Project</b></h3>
 </div>
@@ -71,7 +71,7 @@ The project was built using the following technologies:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mussieteka.github.io/Capstone-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
