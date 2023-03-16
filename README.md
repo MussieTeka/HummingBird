@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="images/mussie.png" alt="logo" width="140"  height="auto" />
+  <img src="images/mussie.png" alt="logo" width="auto"  height="auto" />
   <br/>
   <h3><b>HummingBird BootCamp Capstone Project</b></h3>
 </div>
@@ -88,7 +88,7 @@ In order to run this project, you need to have a web browser installed on your c
 Clone this repository to your desired folder by running the following command:
 
 ```sh
-  git git@github.com:MussieTeka/Capstone-Project.git
+  git@github.com:MussieTeka/Capstone-Project.git
 ```
 
 ### Install
@@ -104,8 +104,9 @@ To run the project, open the index.html file in your web browser.
 To run tests, run the following command:
 
 ```sh
-  npm test
-  configure linter
+ npx hint .
+ npx stylelint "**/*.{css,scss}"
+ npx eslint .
 ```
 
 ### Deployment
@@ -128,15 +129,11 @@ This project was developed by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- **Adding the remaining pages to the website.**
+- **Integrating with hosting sites to deploy the website.**
+- **Implementing a search functionality to allow users to search for speakers or events.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,8 +150,6 @@ Feel free to check the [issues page](../../issues/).
 If you like this project, please give it a star on GitHub.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
