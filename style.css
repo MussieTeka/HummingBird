@@ -43,7 +43,7 @@ body {
   margin-left: 0;
 }
 
-.program p {
+.program-description {
   color: #fff;
   margin-left: 10px;
   margin-right: 10px;
@@ -93,6 +93,11 @@ body {
   color: #5c5a5a;
   font-size: 16px;
   margin: 0;
+}
+
+.about-header-menu ul li p {
+  font-size: 15px;
+  padding-top: 20px;
 }
 
 .header-menu ul li p:hover,
@@ -337,7 +342,7 @@ body {
 
 .speaker-name {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 700;
   color: #272a31;
 }
 
@@ -370,7 +375,7 @@ body {
 .about-header-menu ul {
   display: flex;
   list-style: none;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
 }
 
@@ -454,7 +459,7 @@ body {
 .about-secondcard-container-header::after {
   content: "";
   position: absolute;
-  left: 50%;
+  left: 40%;
   bottom: 0;
   width: 30px;
   height: 2px;
@@ -759,11 +764,6 @@ body {
     color: #535353;
   }
 
-  .about-header-menu ul li p {
-    font-size: 15px;
-    padding-top: 15px;
-  }
-
   .header-menu ul li p:hover,
   .header-menu ul li p:active {
     color: #ec5242;
@@ -993,7 +993,7 @@ body {
   }
 
   .about-secondcard-container-header::after {
-    left: 50%;
+    left: 40%;
   }
 
   .about-secondcard-container-body-mobile {
