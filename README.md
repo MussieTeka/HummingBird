@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HummingBird Boot Camp Capstone Project] <a name="about-project"></a>
+# 📖 HummingBird Boot Camp: Capstone Project <a name="about-project"></a>
 
 This is the repository for the **HummingBird Boot Camp Capstone Project**. The goal of this project was to create a fully responsive website with two pages, home, and about, using a CSS framework and JavaScript to create dynamic content.
 
