@@ -61,8 +61,6 @@ The project was built using the following technologies:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Dynamic creation of the "Guest Instructors" section using JavaScript**
 - **Responsive design for mobile and desktop screens**
 - **Navigation menu with links to the home and about pages**
@@ -155,15 +153,13 @@ If you like this project, please give it a star on GitHub.
 
 I would like to thank the following resources and individuals for their help and inspiration:
 
-- Cindy Shin on https://www.behance.net/gallery/29845175/CC-Global-Summit-2015 for providing the original design that served as the inspiration for our project.
-- Unsplash (https://unsplash.com/) for the beautiful pictures used in our project.
-- Flaticon (https://www.flaticon.com/) for the icons used in our project.
+- <a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">Cindy Shin:</a> for providing the original design that served as the inspiration for our project.
+- <a href="https://unsplash.com/">Unsplash:</a> for the beautiful pictures used in this project.
+- <a href="https://www.flaticon.com/">Flaticon:</a>for the icons used in our project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Can I modify and redistribute this project?**
 
