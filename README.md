@@ -3,10 +3,10 @@
 <div align="center">
   <img src="images/mussie.png" alt="logo" width="300px"  height="300px" />
   <br/>
-  <h3><b>HummingBird BootCamp Capstone Project</b></h3>
+  <h3><b>HummingBird The Website!</b></h3>
 </div>
 
-# 📗 Table of Content
+# 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
